@@ -10,6 +10,8 @@
 - 🛠 Design and document real-world systems with simplicity and logic
 - 📊 Analyze operational and behavioral data for smarter decisions
 - ⚙️ Build minimalist C projects like `libft`, `philosophers`, and `minishell`
+- 📈 Build interactive dashboards for institutional performance and reporting  
+
 
 ---
 
